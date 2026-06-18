@@ -1,34 +1,39 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    boxosdev · profile readme                     -->
+<!--   boxosdev · profile readme                                      -->
+<!--   assets/pixel-wave.svg  &  assets/divider.svg live in this repo -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0E,60:1F8C7E,100:3FAE9F&height=190&section=header&text=Hi,%20I'm%20Sasha&fontColor=E8EDEC&fontSize=46&fontAlignY=38&desc=building%20BoxOS%20%E2%80%94%20an%20OS%20without%20a%20tree-based%20file%20system&descSize=15&descColor=B9C7C4&descAlignY=58" alt="header" />
+  <img src="https://raw.githubusercontent.com/boxosdev/boxosdev/main/assets/pixel-wave.svg" alt="Hi, I'm Sasha — building BoxOS" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=900&color=3FAE9F&center=true&vCenter=true&width=520&lines=Passionate+young+programmer;OS+developer+%C2%B7+C+%26+Assembly+%C2%B7+x86_64;Rust+enthusiast+%26+algorithm+nerd" alt="typing" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=900&color=3FAE9F&center=true&vCenter=true&width=520&lines=Passionate+young+programmer;OS+developer+%C2%B7+C+%26+Assembly+%C2%B7+x86_64;Rust+enthusiast+%26+algorithm+nerd" alt="typing" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=boxosdev&label=VIEWS&color=3FAE9F&style=flat-square" alt="views" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/boxosdev/boxosdev/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ─────────────  ABOUT · amber  ───────────── -->
-<img src="https://img.shields.io/badge/✦__ABOUT_ME-E0A458?style=for-the-badge&labelColor=0B0F0E" alt="about" />
+<h2>
+  <img src="https://img.shields.io/badge/-E0A458?style=flat-square" height="18" alt="" />
+  &nbsp;✦ About me
+</h2>
 
-- 💻 &nbsp;Currently building **[BoxOS](https://box-os.ru)** — my own operating system, hand-written in **C & Assembly**
+- 💻 &nbsp;Currently building **<a href="https://box-os.ru">BoxOS</a>** — my own operating system, hand-written in **C & Assembly**
 - 🧠 &nbsp;Learning **Rust** and diving into interesting **algorithms**
-- 🤝 &nbsp;Looking for a **team** — if you're driven by ideas and tired of tree-based file systems, [join me](https://box-os.ru)
+- 🤝 &nbsp;Looking for a **team** — if you're driven by ideas and tired of tree-based file systems, <a href="https://box-os.ru">join me</a>
 - 📫 &nbsp;Reach me at **boxkernelx86@gmail.com**
 - ❤️ &nbsp;And one more thing — **I love my mom**
 
-<br/>
+<img src="https://raw.githubusercontent.com/boxosdev/boxosdev/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ─────────────  STACK · sky  ───────────── -->
-<img src="https://img.shields.io/badge/✦__TECH_STACK-4FB8D9?style=for-the-badge&labelColor=0B0F0E" alt="stack" />
+<h2>
+  <img src="https://img.shields.io/badge/-4FB8D9?style=flat-square" height="18" alt="" />
+  &nbsp;✦ Tech stack
+</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-0B0F0E?style=for-the-badge&logo=rust&logoColor=4FB8D9" alt="rust" />
@@ -40,10 +45,13 @@
   <img src="https://img.shields.io/badge/Linux-0B0F0E?style=for-the-badge&logo=linux&logoColor=4FB8D9" alt="linux" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/boxosdev/boxosdev/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ─────────────  STATS · coral  ───────────── -->
-<img src="https://img.shields.io/badge/✦__GITHUB_STATS-E0705B?style=for-the-badge&labelColor=0B0F0E" alt="stats" />
+<h2>
+  <img src="https://img.shields.io/badge/-E0705B?style=flat-square" height="18" alt="" />
+  &nbsp;✦ GitHub stats
+</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=boxosdev&show_icons=true&hide_border=true&title_color=E0705B&icon_color=EE9080&text_color=B9C7C4&bg_color=0B0F0E" alt="stats" />
@@ -54,10 +62,13 @@
   <img src="https://streak-stats.demolab.com/?user=boxosdev&hide_border=true&background=0B0F0E&stroke=1C2624&ring=E0705B&fire=EE9080&currStreakNum=E8EDEC&currStreakLabel=E0705B&sideNums=E8EDEC&sideLabels=B9C7C4&dates=8FA3A0" alt="streak" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/boxosdev/boxosdev/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ─────────────  CONNECT · green  ───────────── -->
-<img src="https://img.shields.io/badge/✦__CONNECT-7FB069?style=for-the-badge&labelColor=0B0F0E" alt="connect" />
+<h2>
+  <img src="https://img.shields.io/badge/-7FB069?style=flat-square" height="18" alt="" />
+  &nbsp;✦ Connect
+</h2>
 
 <p align="left">
   <a href="https://t.me/REPLACE_WITH_YOUR_USERNAME">
@@ -70,6 +81,8 @@
     <img src="https://img.shields.io/badge/Email-0B0F0E?style=for-the-badge&logo=gmail&logoColor=7FB069" alt="email" />
   </a>
   <a href="https://box-os.ru">
-    <img src="https://img.shields.io/badge/box--os.ru-0B0F0E?style=for-the-badge&logo=icloud&logoColor=7FB069" alt="website" />
+    <img src="https://img.shields.io/badge/box--os.ru-0B0F0E?style=for-the-badge&logo=googlechrome&logoColor=7FB069" alt="website" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/boxosdev/boxosdev/main/assets/divider.svg" width="100%" alt="" />
