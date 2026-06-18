@@ -10,79 +10,66 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=900&color=3FAE9F&center=true&vCenter=true&width=520&lines=Passionate+young+programmer;OS+developer+%C2%B7+C+%26+Assembly+%C2%B7+x86_64;Rust+enthusiast+%26+algorithm+nerd" alt="typing" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boxosdev&label=PROFILE+VIEWS&color=3FAE9F&style=for-the-badge" alt="views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=boxosdev&label=VIEWS&color=3FAE9F&style=flat-square" alt="views" />
 </p>
 
 <br/>
 
-## ◆ &nbsp;About me
+<!-- ─────────────  ABOUT · amber  ───────────── -->
+<img src="https://img.shields.io/badge/✦__ABOUT_ME-E0A458?style=for-the-badge&labelColor=0B0F0E" alt="about" />
 
-```text
-> whoami
-  Sasha — low-level systems programmer, building things from the kernel up.
-
-> current_project   BoxOS  ·  an operating system with a non-tree file system
-> learning          Rust  ·  algorithms & data structures
-> looking_for       teammates driven by ideas, tired of tree-based filesystems
-> contact           boxkernelx86@gmail.com
-> note              I love my mom ♥
-```
-
-<sub>🤝 &nbsp;If the idea of a filesystem without a directory tree excites you — <a href="https://box-os.ru"><b>box-os.ru</b></a></sub>
+- 💻 &nbsp;Currently building **[BoxOS](https://box-os.ru)** — my own operating system, hand-written in **C & Assembly**
+- 🧠 &nbsp;Learning **Rust** and diving into interesting **algorithms**
+- 🤝 &nbsp;Looking for a **team** — if you're driven by ideas and tired of tree-based file systems, [join me](https://box-os.ru)
+- 📫 &nbsp;Reach me at **boxkernelx86@gmail.com**
+- ❤️ &nbsp;And one more thing — **I love my mom**
 
 <br/>
 
-## ◆ &nbsp;Tech stack
+<!-- ─────────────  STACK · sky  ───────────── -->
+<img src="https://img.shields.io/badge/✦__TECH_STACK-4FB8D9?style=for-the-badge&labelColor=0B0F0E" alt="stack" />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Rust-0B0F0E?style=for-the-badge&logo=rust&logoColor=3FAE9F" alt="rust" />
-  <img src="https://img.shields.io/badge/Assembly-x86__64-0B0F0E?style=for-the-badge&labelColor=0B0F0E&color=1F8C7E" alt="assembly" />
-  <img src="https://img.shields.io/badge/C-0B0F0E?style=for-the-badge&logo=c&logoColor=3FAE9F" alt="c" />
-  <img src="https://img.shields.io/badge/C++-0B0F0E?style=for-the-badge&logo=cplusplus&logoColor=3FAE9F" alt="cplusplus" />
-  <img src="https://img.shields.io/badge/Python-0B0F0E?style=for-the-badge&logo=python&logoColor=3FAE9F" alt="python" />
-  <img src="https://img.shields.io/badge/Bash-0B0F0E?style=for-the-badge&logo=gnubash&logoColor=3FAE9F" alt="bash" />
-  <img src="https://img.shields.io/badge/Linux-0B0F0E?style=for-the-badge&logo=linux&logoColor=3FAE9F" alt="linux" />
+  <img src="https://img.shields.io/badge/Rust-0B0F0E?style=for-the-badge&logo=rust&logoColor=4FB8D9" alt="rust" />
+  <img src="https://img.shields.io/badge/Assembly-x86__64-0B0F0E?style=for-the-badge&labelColor=0B0F0E&color=2E7C97" alt="assembly" />
+  <img src="https://img.shields.io/badge/C-0B0F0E?style=for-the-badge&logo=c&logoColor=4FB8D9" alt="c" />
+  <img src="https://img.shields.io/badge/C++-0B0F0E?style=for-the-badge&logo=cplusplus&logoColor=4FB8D9" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Python-0B0F0E?style=for-the-badge&logo=python&logoColor=4FB8D9" alt="python" />
+  <img src="https://img.shields.io/badge/Bash-0B0F0E?style=for-the-badge&logo=gnubash&logoColor=4FB8D9" alt="bash" />
+  <img src="https://img.shields.io/badge/Linux-0B0F0E?style=for-the-badge&logo=linux&logoColor=4FB8D9" alt="linux" />
 </p>
 
 <br/>
 
-## ◆ &nbsp;GitHub stats
+<!-- ─────────────  STATS · coral  ───────────── -->
+<img src="https://img.shields.io/badge/✦__GITHUB_STATS-E0705B?style=for-the-badge&labelColor=0B0F0E" alt="stats" />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boxosdev&show_icons=true&hide_border=true&title_color=3FAE9F&icon_color=5FC9BA&text_color=B9C7C4&bg_color=0B0F0E" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxosdev&layout=compact&hide_border=true&title_color=3FAE9F&text_color=B9C7C4&bg_color=0B0F0E" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=boxosdev&show_icons=true&hide_border=true&title_color=E0705B&icon_color=EE9080&text_color=B9C7C4&bg_color=0B0F0E" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxosdev&layout=compact&hide_border=true&title_color=E0705B&text_color=B9C7C4&bg_color=0B0F0E" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=boxosdev&hide_border=true&background=0B0F0E&stroke=1C2624&ring=3FAE9F&fire=5FC9BA&currStreakNum=E8EDEC&currStreakLabel=3FAE9F&sideNums=E8EDEC&sideLabels=B9C7C4&dates=8FA3A0" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boxosdev&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=boxosdev&hide_border=true&background=0B0F0E&stroke=1C2624&ring=E0705B&fire=EE9080&currStreakNum=E8EDEC&currStreakLabel=E0705B&sideNums=E8EDEC&sideLabels=B9C7C4&dates=8FA3A0" alt="streak" />
 </p>
 
 <br/>
 
-## ◆ &nbsp;Connect
+<!-- ─────────────  CONNECT · green  ───────────── -->
+<img src="https://img.shields.io/badge/✦__CONNECT-7FB069?style=for-the-badge&labelColor=0B0F0E" alt="connect" />
 
 <p align="left">
   <a href="https://t.me/REPLACE_WITH_YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-0B0F0E?style=for-the-badge&logo=telegram&logoColor=3FAE9F" alt="telegram" />
+    <img src="https://img.shields.io/badge/Telegram-0B0F0E?style=for-the-badge&logo=telegram&logoColor=7FB069" alt="telegram" />
   </a>
   <a href="https://youtube.com/@REPLACE_WITH_YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-0B0F0E?style=for-the-badge&logo=youtube&logoColor=3FAE9F" alt="youtube" />
+    <img src="https://img.shields.io/badge/YouTube-0B0F0E?style=for-the-badge&logo=youtube&logoColor=7FB069" alt="youtube" />
   </a>
   <a href="mailto:boxkernelx86@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B0F0E?style=for-the-badge&logo=gmail&logoColor=3FAE9F" alt="email" />
+    <img src="https://img.shields.io/badge/Email-0B0F0E?style=for-the-badge&logo=gmail&logoColor=7FB069" alt="email" />
   </a>
   <a href="https://box-os.ru">
-    <img src="https://img.shields.io/badge/box--os.ru-0B0F0E?style=for-the-badge&logo=icloud&logoColor=3FAE9F" alt="website" />
+    <img src="https://img.shields.io/badge/box--os.ru-0B0F0E?style=for-the-badge&logo=icloud&logoColor=7FB069" alt="website" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FAE9F,40:1F8C7E,100:0B0F0E&height=120&section=footer" alt="footer" />
 </p>
